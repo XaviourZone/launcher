@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Focus Launcher</string>
+    <string name="settings">Focus Launcher settings</string>
+    <string name="pick_apps">Choose apps</string>
+    <string name="add_widget">Add widget</string>
+    <string name="all_apps">All apps</string>
+</resources>
